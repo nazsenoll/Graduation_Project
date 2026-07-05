@@ -1,0 +1,10 @@
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/domates_patches\64-64-28dot088435_38dot605083.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/domates_patches\64-64-28dot112158_38dot616855.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/domates_patches\64-64-27dot85189_38dot530322.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/domates_patches\64-64-28dot065331_38dot572669.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/domates_patches\64-64-27dot888489_38dot521173.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/domates_patches\64-64-28dot125408_38dot509731.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/domates_patches\64-64-27dot965361_38dot573836.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/domates_patches\64-64-27dot915164_38dot571744.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/domates_patches\64-64-28dot16022_38dot51954.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/domates_patches\64-64-28dot008421_38dot532725.npy

@@ -1,0 +1,6 @@
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/yonca_patches\64-64-28dot103548_38dot558731.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/yonca_patches\64-64-27dot988887_38dot543695.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/yonca_patches\64-64-28dot090155_38dot58579.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/yonca_patches\64-64-28dot02698_38dot5457.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/yonca_patches\64-64-28dot007288_38dot582542.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/yonca_patches\64-64-28dot122285_38dot574729.npy

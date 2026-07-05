@@ -1,0 +1,9 @@
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/misir2_patches\64-64-28dot049251_38dot544118.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/misir2_patches\64-64-27dot927111_38dot607152.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/misir2_patches\64-64-28dot050507_38dot490375.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/misir2_patches\64-64-27dot985769_38dot541095.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/misir2_patches\64-64-27dot993335_38dot552249.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/misir2_patches\64-64-28dot122487_38dot568775.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/misir2_patches\64-64-28dot088334_38dot586186.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/misir2_patches\64-64-28dot030901_38dot554274.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/misir2_patches\64-64-28dot09083_38dot564841.npy

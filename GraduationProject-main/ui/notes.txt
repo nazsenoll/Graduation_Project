@@ -1,0 +1,2 @@
+pyinstaller a.py --onefile --windowed
+python -m PyInstaller a.py --onefile --windowed

@@ -1,0 +1,11 @@
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/zeytin_patches\64-64-28dot024796_38dot591728.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/zeytin_patches\64-64-27dot965832_38dot595121.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/zeytin_patches\64-64-27dot883599_38dot610897.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/zeytin_patches\64-64-27dot931072_38dot562384.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/zeytin_patches\64-64-27dot994082_38dot563423.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/zeytin_patches\64-64-28dot011679_38dot557446.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/zeytin_patches\64-64-28dot043242_38dot576752.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/zeytin_patches\64-64-27dot887666_38dot52838.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/zeytin_patches\64-64-28dot090768_38dot492985.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/zeytin_patches\64-64-27dot946222_38dot569068.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/zeytin_patches\64-64-27dot990091_38dot597905.npy

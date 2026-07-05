@@ -1,0 +1,9 @@
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/pamuk_patches\64-64-27dot86021_38dot566551.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/pamuk_patches\64-64-27dot871653_38dot498456.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/pamuk_patches\64-64-28dot078575_38dot483745.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/pamuk_patches\64-64-28dot089011_38dot605847.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/pamuk_patches\64-64-27dot940237_38dot618897.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/pamuk_patches\64-64-28dot126528_38dot503676.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/pamuk_patches\64-64-28dot070971_38dot613602.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/pamuk_patches\64-64-28dot096031_38dot577013.npy
+C:/Users/oguzh/PycharmProjects/graduationProject/data2\patches/pamuk_patches\64-64-27dot933019_38dot551359.npy
